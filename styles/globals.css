@@ -1,0 +1,48 @@
+@import url("../public/css/emoji.css");
+@import url("../public/css/feather.css");
+@import url("../public/css/lightbox.css");
+@import url("../public/css/style.css");
+@import url("../public/css/themify-icons.css");
+@import url("../public/vendor/owl-carousel/css/owl.carousel.min.css");
+@import url("../public/vendor/owl-carousel/css/owl.theme.default.css");
+
+.new_flex {
+  display: flex;
+  gap: 0.2rem;
+}
+
+.new_class_flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.new_chat_modal {
+  height: 17rem;
+  overflow-y: scroll;
+}
+
+.new_margin {
+  margin-top: 1rem;
+}
+
+.createPost {
+  z-index: 1111111111111111111111;
+  top: 50%;
+  left: 50%;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.new_loader {
+  z-index: 1111111111111111111111;
+  top: 50%;
+  left: 50%;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

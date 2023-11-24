@@ -1,0 +1,37 @@
+[
+  {
+    "productId": 1,
+    "name": "Daulat Tech",
+    "video": "ProductAds/video-5.mp4",
+    "brand": "ProductAds/logo-1.jpg",
+    "Link": "#"
+  },
+  {
+    "productId": 2,
+    "name": "Bird Tech",
+    "video": "ProductAds/video-2.mp4",
+    "brand": "ProductAds/logo-2.jpg",
+    "Link": "#"
+  },
+  {
+    "productId": 3,
+    "name": "Dimand Heart",
+    "video": "ProductAds/video-3.mp4",
+    "brand": "ProductAds/logo-3.jpg",
+    "Link": "#"
+  },
+  {
+    "productId": 4,
+    "name": "Denail Lit",
+    "video": "ProductAds/video-4.mp4",
+    "brand": "ProductAds/logo-4.jpg",
+    "Link": "#"
+  },
+  {
+    "productId": 5,
+    "name": "Coconut",
+    "video": "ProductAds/video-1.mp4",
+    "brand": "ProductAds/logo-5.jpg",
+    "Link": "#"
+  }
+]

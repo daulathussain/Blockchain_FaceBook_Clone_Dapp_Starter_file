@@ -1,0 +1,65 @@
+[
+  {
+    "productId": 1,
+    "name": "Ether",
+    "brand": "ProductAds/token-1.png",
+    "price": "0.0025 ETH",
+    "Link": "https://app.uniswap.org/tokens/ethereum"
+  },
+  {
+    "productId": 2,
+    "name": "Human Bread",
+    "brand": "ProductAds/token-2.png",
+    "price": "0.0015 ETH",
+    "Link": "https://app.uniswap.org/tokens/ethereum"
+  },
+  {
+    "productId": 3,
+    "name": "Night Fighter",
+    "brand": "ProductAds/token-3.png",
+    "price": "0.0055 ETH",
+    "Link": "https://app.uniswap.org/tokens/ethereum"
+  },
+  {
+    "productId": 4,
+    "name": "Light Fighter",
+    "brand": "ProductAds/token-4.png",
+    "price": "0.0125 ETH",
+    "Link": "https://app.uniswap.org/tokens/ethereum"
+  },
+  {
+    "productId": 5,
+    "name": "Heavy Fighter",
+    "brand": "ProductAds/token-5.png",
+    "price": "0.1025 ETH",
+    "Link": "https://app.uniswap.org/tokens/ethereum"
+  },
+  {
+    "productId": 6,
+    "name": "Twinkle Fighter",
+    "brand": "ProductAds/token-6.png",
+    "price": "0.0225 ETH",
+    "Link": "https://app.uniswap.org/tokens/ethereum"
+  },
+  {
+    "productId": 7,
+    "name": " Fighter Me",
+    "brand": "ProductAds/token-7.png",
+    "price": "0.0025 ETH",
+    "Link": "https://app.uniswap.org/tokens/ethereum"
+  },
+  {
+    "productId": 8,
+    "name": "Guy Fighter",
+    "brand": "ProductAds/token-8.png",
+    "price": "0.015 ETH",
+    "Link": "https://app.uniswap.org/tokens/ethereum"
+  },
+  {
+    "productId": 9,
+    "name": "Live Fighter",
+    "brand": "ProductAds/token-9.png",
+    "price": "1.0025 ETH",
+    "Link": "https://app.uniswap.org/tokens/ethereum"
+  }
+]

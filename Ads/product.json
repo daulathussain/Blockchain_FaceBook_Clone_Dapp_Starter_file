@@ -1,0 +1,14 @@
+[
+  {
+    "productId": 1,
+    "name": "Denail Lit",
+    "brand": "ProductAds/product-1.png",
+    "Link": "#"
+  },
+  {
+    "productId": 2,
+    "name": "Natural",
+    "brand": "ProductAds/product-2.png",
+    "Link": "#"
+  }
+]
